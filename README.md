@@ -1,4 +1,4 @@
-# MSSEG2016 Results
+# MSSEG MS Lesions Results
 This repository contains supplementary results for the MSc dissertation titled
 "Repeatability by Radiologist When Segmenting the Brain."
 
