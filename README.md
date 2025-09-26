@@ -1,2 +1,8 @@
-# MSSEG2016-Results
-"Repeatability by radiologist when segmenting the brain" - Supplementary results for MSc Dissertation
+# MSSEG2016 Results
+This repository contains supplementary results for the MSc dissertation titled
+"Repeatability by Radiologist When Segmenting the Brain."
+
+Contents:
+- 3D Slicer patient-level results
+- 2D U-Net patient-level results
+- 3D U-Net patient-level results
